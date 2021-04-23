@@ -1,5 +1,7 @@
 /*
-    bad apple.fx for ReShade by kingeric1992 (Aprl.23.2021)
+    bad apple.fx 
+    A Demo shader for playing [Bad Apple!!](https://www.youtube.com/watch?v=FtutLA63Cp8) in ReShade
+                by kingeric1992 (Aprl.23.2021)
 */
 
 #define SIZE_X  480
